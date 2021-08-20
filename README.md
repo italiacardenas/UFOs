@@ -6,13 +6,12 @@ The purpose of this project is to create and build a dynamic HTML page that allo
 
 
 ## Results:
-The webpage is relatively easy to navigate. At first glance, it can be overwhleming because the website shows the entire database. 
-![Screen Shot 2021-04-04 at 3.02.13 PM.png](https://github.com/italiacardenas/Election_Analysis/blob/3f2bd45ef045796f178a022020939c3cda357db3/Resources/Screen%20Shot%202021-04-04%20at%203.02.13%20PM.png)
+<b> The webpage is relatively easy to navigate. At first glance, it can be overwhleming because the website shows the entire database. </b>
+![website_nofilter.png](https://github.com/italiacardenas/UFOs/blob/aaedb02571e44f66330b014b84950aac61659eb9/resources/website_nofilter.png)
 
-Once filtered the site feels less overwhelming.
-
+<b> Once filtered the site feels less overwhelming. </b>
+![website_filter.png](https://github.com/italiacardenas/UFOs/blob/aaedb02571e44f66330b014b84950aac61659eb9/resources/website_filter.png)
 
 ## Summary:
 
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+One of the biggest drawbacks, is that the user must be very specific of what they are searching for. To improve, there are two recommendations (and possibly more!) to be made. The first would be to create drop down lists for each filter, the second is to have ranges of dates rather than trying to find for a specific date.
